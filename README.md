@@ -15,7 +15,7 @@ This project analyzes sales data using **MySQL queries** and **Python visualizat
 3. **Connect MySQL & Python** using credentials in `.env`  
 
 ## 📊 Example Visualization
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales](images/total rev by month.png)
 
 ## 🏆 Skills Demonstrated
 ✅ MySQL Query Writing  
